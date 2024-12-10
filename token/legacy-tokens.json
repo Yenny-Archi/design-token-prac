@@ -52,6 +52,11 @@
     "test-fs-lg": {
       "value": "20",
       "type": "fontSizes"
+    },
+    "test-red-600": {
+      "value": "#ff2828",
+      "type": "color",
+      "description": "test description"
     }
   },
   "$themes": [],
