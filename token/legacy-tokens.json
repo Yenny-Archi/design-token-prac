@@ -1,0 +1,63 @@
+{
+  "global": {
+    "test-red-100": {
+      "value": "#ecc5c5",
+      "type": "color",
+      "description": "test red"
+    },
+    "test-red-200": {
+      "value": "#ffa3a3",
+      "type": "color"
+    },
+    "test-red-300": {
+      "value": "#ff9292",
+      "type": "color"
+    },
+    "test-red-400": {
+      "value": "#ff6767",
+      "type": "color"
+    },
+    "test-red-500": {
+      "value": "#ff4848",
+      "type": "color"
+    },
+    "test-size-sm": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "test-size-md": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "test-size-lg": {
+      "value": "60",
+      "type": "sizing"
+    },
+    "test-radius-sm": {
+      "value": "10",
+      "type": "borderRadius"
+    },
+    "test-radius-md": {
+      "value": "20",
+      "type": "borderRadius"
+    },
+    "test-radius-lg": {
+      "value": "40",
+      "type": "borderRadius"
+    },
+    "test-fs-sm": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "test-fs-lg": {
+      "value": "20",
+      "type": "fontSizes"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
